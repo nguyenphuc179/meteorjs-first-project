@@ -1,0 +1,64 @@
+﻿@model QLNhaHang.Models.ThucDon
+
+@{
+    ViewBag.Title = "Thực đơn - Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Thực đơn</h2>
+
+<div>
+    <h4>Thông tin thực đơn</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenThucDon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenThucDon)
+        </dd>
+        <hr/>
+        <dt>
+            @Html.DisplayNameFor(model => model.DonGia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DonGia)
+        </dd>
+        <hr />
+        
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.Hinh)
+        </dt>
+
+        <dd>
+            <img src="@Url.Content("~/Photos/ThucDon/"+  Model.Hinh)" width="120px" />
+        </dd>
+        <hr />
+      
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayCapNhat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayCapNhat)
+        </dd>
+        <hr />
+        <dt>
+            @Html.DisplayNameFor(model => model.NhomMon.TenNhomMon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NhomMon.TenNhomMon)
+        </dd>
+        <hr />
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.ThucDonID }) |
+    @Html.ActionLink("Trở về", "Index")
+</p>
+
+

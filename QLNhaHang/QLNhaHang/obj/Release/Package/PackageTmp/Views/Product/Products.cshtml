@@ -1,0 +1,143 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@using QLNhaHang.Models;
+
+@{
+    ViewBag.Title = "Products";
+    IPagedList<ThucDon> finalList = ViewBag.FinalList as IPagedList<ThucDon>;
+}
+
+<div class="breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <ul>
+                <li class="home"> <a href="index.html" title="Go to Home Page">Home</a><span>—›</span></li>
+
+
+                <li><strong>@ViewBag.TieuDe</strong></li>
+
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- Two columns content -->
+<section class="main-container col2-left-layout">
+    <div class="main container">
+        <div class="row">
+            <div class="category-title">
+                <h1>
+
+
+                    @ViewBag.TieuDe
+
+
+                </h1>
+            </div>
+
+            <div class="category-products">
+
+                <div class="toolbar">
+                    <div class="sorter">
+                        <div class="view-mode">
+                           
+                        </div>
+                    </div>
+                    <div id="sort-by">
+                        @*<label class="left">Lọc theo: </label>*@
+                        @*<select name="sortBy" id="sortBy" class="selectBox" style="height: 28px;">
+                            <option selected value="default">Mặc định</option>
+                            <option value="alpha-asc">A &rarr; Z</option>
+                            <option value="alpha-desc">Z &rarr; A</option>
+                            <option value="price-asc">Giá tăng dần</option>
+                            <option value="price-desc">Giá giảm dần</option>
+                            <option value="created-desc">Hàng mới nhất</option>
+                            <option value="created-asc">Hàng cũ nhất</option>
+                        </select>*@
+                        <script>
+                            Bizweb.queryParams = {};
+                            if (location.search.length) {
+                                for (var aKeyValue, i = 0, aCouples = location.search.substr(1).split('&') ; i < aCouples.length; i++) {
+                                    aKeyValue = aCouples[i].split('=');
+                                    if (aKeyValue.length > 1) {
+                                        Bizweb.queryParams[decodeURIComponent(aKeyValue[0])] = decodeURIComponent(aKeyValue[1]);
+                                    }
+                                }
+                            }
+                            $(function () {
+                                $('#sortBy')
+                                // select the current sort order
+                                    .val('manual')
+                                    .bind('change', function () {
+                                        Bizweb.queryParams.sortby = jQuery(this).val();
+                                        location.search = jQuery.param(Bizweb.queryParams).replace(/\+/g, '%20');
+                                    });
+                            });
+                        </script>
+                    </div>
+
+                </div>
+                @foreach (var item in finalList)
+                {
+                    <ul class="products-grid">
+                        <li class="item col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                            <div class="item-inner">
+                                <div class="product-block">
+                                    <div class="product-image">
+                                        <a href="@Url.Action("ChiTiet", "SanPham", new { id = item.ThucDonID})">
+
+                                            <figure class="product-display">
+
+                                                <img src="~/Photos/ThucDon/@item.Hinh" class="lazyOwl product-mainpic" alt="@item.TenThucDon" style="display: block;">
+                                                <img class="product-secondpic" alt="@item.TenThucDon" src="~/Photos/ThucDon/@item.Hinh" width="258">
+                                            </figure>
+                                        </a>
+                                    </div>
+                                    <div class="text-center">
+                                        @*@if (item.ThucDonID != null)
+                                        {
+                                            @Html.Partial("_ChonMuaPartial", item.ThucDonID)
+                                        }*@
+                                    </div>
+                                </div>
+                                <div class="item-info">
+                                    <div class="info-inner">
+                                        <div class="item-title" style="font-size:large"> @item.TenThucDon</div>
+                                        <div class="item-content">
+                                            <div class="item-price">
+
+                                                <div class="price-box">
+                                                    <p class="special-price"> <span class="price-label">Giá :</span> <span class="price">@item.DonGia .VND</span> </p>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+
+                    </ul>
+                }
+
+
+            </div>
+        </div>
+    </div>
+    @*<div style="margin-left: 100px"> @Html.PagedListPager(finalList, page => Url.Action("Products", new { ViewBag.Keyword = keyword;, page = page }))</div>
+        </section>
+        @section styles{
+            <link href="~/Content/PagedList.css" rel="stylesheet" />
+
+        }*@
+    <div style="margin-left: 100px">
+        @Html.PagedListPager(finalList,
+                  page => Url.Action("Products", new
+                    {
+                        page,
+                        keyword = ViewBag.Keyword
+                    }),
+                    PagedListRenderOptions.ClassicPlusFirstAndLast)
+    </div>

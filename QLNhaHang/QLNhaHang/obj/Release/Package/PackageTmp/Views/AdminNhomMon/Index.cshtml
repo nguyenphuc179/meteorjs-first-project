@@ -1,0 +1,66 @@
+﻿@model IEnumerable<QLNhaHang.Models.NhomMon>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Nhóm Món</h2>
+
+<p>
+    @Html.ActionLink("Tạo Mới", "Create")
+</p>
+
+
+<div>
+    @using (Html.BeginForm("Index", "AdminNhomMon", FormMethod.Get))
+    {
+        <div class="navbar-form">
+            @Html.TextBox("NoiDungTim", "", htmlAttributes: new { @list = "dsTen", @class="form-control" ,@placeholder="Search" ,@type="text"})
+            <input type="submit" value="Tìm Kiếm " class="btn btn-success" />
+            @*<input type="text" value="" name="NoiDungTim" list="dsTen" />*@
+            <datalist id="dsTen">
+                @foreach (var item in Model)
+                {
+                    <option>@item.TenNhomMon</option>
+                }
+            </datalist>
+        </div>   
+    }
+</div>
+
+<hr/>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenNhomMon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BiDanh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PhanLoai.TenPhanLoai)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenNhomMon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BiDanh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PhanLoai.TenPhanLoai)
+        </td>
+        <td>
+            @Html.ActionLink("Sửa", "Edit", new { id=item.NhomMonID }) |
+            @Html.ActionLink("Chi Tiết", "Details", new { id=item.NhomMonID }) |
+            @Html.ActionLink("Xóa", "Delete", new { id=item.NhomMonID })
+        </td>
+    </tr>
+}
+
+</table>

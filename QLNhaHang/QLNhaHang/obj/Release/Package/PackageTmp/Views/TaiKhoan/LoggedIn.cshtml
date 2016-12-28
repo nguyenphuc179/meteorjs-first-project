@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "LoggedIn";
+    Layout = "~/Views/Shared/_NhaHangLayout.cshtml";
+}
+
+@if(Session["UserId"] != null)
+{
+    <h4> Hello:   @Session["Username"].ToString()</h4>
+}
+<a href="@Url.Action("LogOut","TaiKhoan")" style="color:#0094ff">Đăng Xuất</a>

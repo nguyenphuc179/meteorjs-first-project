@@ -1,0 +1,62 @@
+﻿
+
+@helper Truncate(string input, int length)
+{
+    if (input.Length < length)
+    {
+        @input
+    }
+    else
+    {
+        @input.Substring(0, length)<text>...</text>
+    }
+}
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    WebGrid grid = new WebGrid(Model, rowsPerPage: 10);
+    string path = Url.Content("~/Photos/BaiViet/");
+}
+
+<h2>Bài Viết</h2>
+
+<p>
+    @Html.ActionLink("Thêm", "Create")
+</p>
+
+
+<div>
+    @using (Html.BeginForm("Index", "AdminBaiViet1", FormMethod.Get))
+    {
+        <div class="navbar-form">
+            @*@Html.Label("NoiDungTim", "Tìm kiếm:")*@
+            @Html.TextBox("NoiDungTim", "", htmlAttributes: new { @list = "dsTen", @class = "form-control", @placeholder = "Search", @type = "text" })  
+            <input type="submit" value="Tìm Kiếm " class="btn btn-success" />
+            @*<input type="text" value="" name="NoiDungTim" list="dsTen" />*@
+            <datalist id="dsTen">
+                @foreach (var item in Model)
+                {
+                    <option>@item.TuaBaiViet</option>
+                }
+            </datalist>
+        </div>      
+    }
+</div>
+<hr/>
+
+@grid.GetHtml(tableStyle: "table table-bordered", headerStyle: "primary",
+mode: WebGridPagerModes.All, numericLinksCount: 10,
+columns: grid.Columns(
+        grid.Column("BaiVietID", "ID", style: "text-center"),
+        grid.Column("TuaBaiViet", "Tựa bài"),
+        grid.Column(format: item => Html.Raw(Truncate(@item.NoiDung, 100))),
+        grid.Column(format: item => Html.Raw(string.Format("<img src='{0}{1}' alt='{1}' style='height:50px;width:50px'/>", path, item.HinhDaiDien))),
+        grid.Column(format: item => Html.ActionLink("Thêm Ảnh", "UploadPhotos", new { id = item.BaiVietID })),
+        grid.Column(format: item => Html.ActionLink("Sửa", "Edit", new { id = item.BaiVietID })),
+        grid.Column(format: item => Html.ActionLink("Chi tiết", "Details", new { id = item.BaiVietID })),
+        grid.Column(format: item => Html.ActionLink("Xóa", "Delete", new { id = item.BaiVietID }))
+        
+ ))
+

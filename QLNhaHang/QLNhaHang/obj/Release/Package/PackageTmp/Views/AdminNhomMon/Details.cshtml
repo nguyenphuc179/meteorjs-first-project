@@ -1,0 +1,43 @@
+﻿@model QLNhaHang.Models.NhomMon
+
+@{
+    ViewBag.Title = "Chi Tiết";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Nhóm Món</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenNhomMon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenNhomMon)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BiDanh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BiDanh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PhanLoai.TenPhanLoai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PhanLoai.TenPhanLoai)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.NhomMonID }) |
+    @Html.ActionLink("Quay Lại", "Index")
+</p>

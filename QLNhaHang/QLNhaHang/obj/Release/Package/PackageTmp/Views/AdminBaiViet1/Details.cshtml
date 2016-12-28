@@ -1,0 +1,61 @@
+﻿@model QLNhaHang.Models.BaiViet
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Chi Tiết</h2>
+
+<div>
+    <h4>Chi Tiết Bài Viết</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TuaBaiViet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TuaBaiViet)
+        </dd>
+        <hr/>
+        <dt>
+            @Html.DisplayNameFor(model => model.NoiDung)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NoiDung)
+        </dd>
+        <hr />
+     
+        <dt>
+            @Html.DisplayNameFor(model => model.HinhDaiDien)
+        </dt>
+
+        <dd>
+            <img src="@Url.Content("~/Photos/BaiViet/"+  Model.HinhDaiDien)" width="120px" />
+        </dd>
+        <hr />
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayCapNhat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayCapNhat)
+        </dd>
+        <hr />
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NguoiDung.TenDangNhap)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NguoiDung.TenDangNhap)
+        </dd>
+        <hr />
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.BaiVietID }) |
+    @Html.ActionLink("Quay Lai", "Index")
+</p>

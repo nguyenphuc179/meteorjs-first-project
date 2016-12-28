@@ -1,0 +1,13 @@
+﻿@{ViewBag.title = "Trang chủ";}
+
+@Html.Partial("_Slider")
+
+
+@Html.Action("_SanPhamHotPartial","SanPham")
+
+@Html.Action("_SanPhamMoiPartial", "SanPham")
+
+@*@section SanPhamHot{
+    @Html.Action("_SanPhamHotPartial", "SanPham")
+}*@
+@Html.Action("_BaiVietNoiBatPartial", "BaiViet")

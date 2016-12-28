@@ -1,0 +1,47 @@
+﻿@model List<QLNhaHang.Models.ThucDon>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    WebGrid grid = new WebGrid(Model, rowsPerPage: 10);
+    string path = Url.Content("~/Photos/ThucDon/");
+}
+
+<h2>Thực đơn</h2>
+
+<p>
+    @Html.ActionLink("Thêm", "Create")
+</p>
+
+<div>
+    @using (Html.BeginForm("Index", "AdminThucDon1", FormMethod.Get))
+    {
+        <div class="navbar-form">
+            
+            @Html.TextBox("NoiDungTim", "", htmlAttributes: new { @list = "dsTen", @class = "form-control", @placeholder = "Search", @type = "text" })
+            <input type="submit" value="Tìm Kiếm " class="btn btn-success" />
+            @*<input type="text" value="" name="NoiDungTim" list="dsTen" />*@
+            <datalist id="dsTen">
+                @foreach (var item in Model)
+                {
+                    <option>@item.TenThucDon</option>
+                }
+            </datalist>
+        </div>   
+    }
+</div>
+<hr/>
+@grid.GetHtml(tableStyle: "table table-bordered",
+mode: WebGridPagerModes.All, numericLinksCount: 10,
+columns: grid.Columns(
+    grid.Column("ThucDonID", "ID", style: "text-center"),
+    grid.Column("TenThucDon", "Tên thực đơn"),
+        grid.Column("NhomMon.TenNhomMon", "Nhóm món"),
+    grid.Column("DonGia", "Đơn giá", format: item => item.DonGia.ToString("#,##0"), style: "text-left"),
+    grid.Column(format: item => Html.Raw(string.Format("<img src='{0}{1}' alt='{1}' style='height:50px;width:50px'/>", path, item.Hinh))),
+    grid.Column(format: item => Html.ActionLink("Thêm Ảnh", "UploadPhotos", new { id = item.ThucDonID })),
+    grid.Column(format: item => Html.ActionLink("Sửa", "Edit", new { id = item.ThucDonID })),
+    grid.Column(format: item => Html.ActionLink("Chi tiết", "Details", new { id = item.ThucDonID })),
+    grid.Column(format: item => Html.ActionLink("Xóa", "Delete", new { id = item.ThucDonID }))
+ ))
+

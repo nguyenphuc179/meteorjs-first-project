@@ -1,0 +1,57 @@
+﻿@model List<QLNhaHang.Models.ThucDon>
+
+<section class="main-container col1-layout home-content-container">
+    <div class="container">
+        <div class="std">
+            <div class="best-seller-pro">
+                <div class="slider-items-products">
+                    <div class="new_title center">
+                        <h2>Món ăn hot</h2>
+                    </div>
+                    <div id="best-seller-slider" class="product-flexslider hidden-buttons">
+                        <div class="slider-items slider-width-col4">
+                            <!-- Item -->
+                            @foreach(var item in Model )
+                            {
+                                <div class="item ">
+                                <div class="product-block">
+                                    <div class="product-image">
+                                        <a href="@Url.Action("ChiTiet", "SanPham", new {id = item.ThucDonID })">
+                                            <figure class="product-display">
+
+                                                <img src="~/Photos/ThucDon/@item.Hinh" class="product-mainpic" alt="@item.TenThucDon">
+                                                <img class="product-secondpic" alt="@item.TenThucDon" src="~/Photos/ThucDon/@item.Hinh">
+                                            </figure>
+                                        </a>
+                                    </div>
+                                    <div class="text-center">
+                                        
+                                            @Html.Partial("_ChonMuaPartial", item.ThucDonID, new ViewDataDictionary())
+                                        
+                                    </div>
+                                </div>
+                                <div class="item-info">
+                                    <div class="info-inner">
+                                        <div class="item-title" style="font-size:large">@item.TenThucDon</div>
+                                        <div class="item-content">
+                                            <div class="item-price">
+
+                                                <div class="price-box">
+                                                    <p class="special-price"> <span class="price-label">Giá</span> <span class="price">@item.DonGia VND</span> </p>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            }
+                            
+                         <!-- End Item -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

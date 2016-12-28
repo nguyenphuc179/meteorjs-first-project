@@ -1,0 +1,41 @@
+﻿@model QLNhaHang.Models.PhanLoai
+
+@{
+    ViewBag.Title = "Xóa";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Xóa Phân Loại</h2>
+
+<h3>Bạn Có thực sự muốn xóa???</h3>
+<div>
+    <h4>Xóa Phân Loại</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenPhanLoai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenPhanLoai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BiDanh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BiDanh)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay Trở lại", "Index")
+        </div>
+    }
+</div>

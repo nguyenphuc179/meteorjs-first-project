@@ -1,0 +1,41 @@
+﻿<style>
+    .nguyenACT {
+        color: red !important;
+        font-weight: bold;
+        background-color: wheat !important;
+    }
+</style>
+<div class="sidebar-nav navbar-collapse">
+    <ul class="nav" id="side-menu">
+        @*<li class="sidebar-search">
+            <div class="input-group custom-search-form">
+                <input type="text" class="form-control" placeholder="Search...">
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="button">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </span>
+            </div>
+             /input-group 
+        </li>*@
+        <li >
+            <a href="@Url.Action("Index","AdminThucDon2")" class="@ViewBag.ThuDonAct"><i class="fa fa-user fa-fw"></i>Thực đơn</a>
+        </li>
+        <li>
+            <a href="@Url.Action("Index","ChamCong")" class="@ViewBag.ChamCong"><i class="fa fa-th-list fa-fw"></i>Chấm công</a>
+        </li>
+        <li>
+            <a href="#"><i class="fa fa-hacker-news fa-fw"></i>Nhóm món</a>
+        </li>
+        <li >
+            <a href="@Url.Action("Index", "AdminBaiViet2")" class="@ViewBag.BaiVietAct"><i class="fa fa-comment fa-fw"></i>Bài viết</a>
+        </li>
+        <li >
+            <a href="@Url.Action("Index", "AdminKhachHang2")" class="@ViewBag.KhachHangAct"><i class="fa fa-user-md fa-fw" "></i>Khách hàng</a>
+        </li>
+        <li>
+            <a href="@Url.Action("Index","AdminDatHang2")" class="@ViewBag.DatHangACT"><i class="fa fa-cog fa-fw"></i>Đặt hàng</a>
+        </li>
+    </ul>
+</div>
+

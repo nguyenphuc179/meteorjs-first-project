@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Đăng Nhập Admin</title>
+    <meta charset="UTF-8" />
+    <meta name="Designer" content="PremiumPixels.com">
+    <meta name="Author" content="$hekh@r d-Ziner, CSSJUNTION.com">
+    <link rel="stylesheet" type="text/css" href="~/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="~/css/structure.css">
+</head>
+<body>
+    <div class="box login">
+        @using (Html.BeginForm())
+        {
+        <fieldset class="boxBody">     
+            @Html.ValidationSummary(true)
+           
+            <label>Tên Đăng nhập</label>
+            <input type="text" name="username" tabindex="1" placeholder="tên đăng nhập là...." required>
+            @ViewData["Loi1"]
+            <label><a href="#" class="rLink" tabindex="5">Quên Mật Khẩu?</a>Mật Khẩu</label>
+            <input type="password" name="password" tabindex="2" placeholder="mật khẩu là...." required>
+            @ViewData["Loi2"]
+
+            <h3 style="color:red; text-align:center"> @ViewBag.Thongbao</h3>
+         </fieldset>
+        <footer>
+            <label><input type="checkbox" tabindex="3">Keep me logged in</label>
+            <input type="submit" class="btnLogin" value="Đăng Nhập" tabindex="4">
+        </footer>
+       }
+    </div>
+    <footer id="main">
+        <a href="http://wwww.nguyentaiphuc.somee.com">NGUYỄN TÀI PHÚC-13DTH17</a> | <a href="http://www.facebook.com/nguyentaiphuc95">01647985179</a>
+    </footer>
+</body>
+</html>

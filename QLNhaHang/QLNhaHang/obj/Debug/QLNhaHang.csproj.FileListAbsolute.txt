@@ -1,0 +1,548 @@
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll.config
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\QLNhaHang.pdb
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\EntityFramework.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Facebook.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Web.Infrastructure.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Owin.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\PagedList.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.Razor.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\WebGrease.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Facebook.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\PagedList.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.Razor.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.pdb
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\EntityFramework.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.dll
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+D:\TH Lap Trinh Web\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll.config
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.pdb
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Owin.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\WebGrease.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.pdb
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.dll
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+C:\Users\VINH-PC\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll.config
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.pdb
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Owin.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\WebGrease.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.pdb
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll.config
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.pdb
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Web.Infrastructure.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Owin.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\WebGrease.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.pdb
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.csprojResolveAssemblyReference.cache
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.dll
+D:\NTP\LTV.net baitap\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll.config
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.pdb
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Owin.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\WebGrease.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.pdb
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.dll
+C:\Users\VINH-PC\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll.config
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\QLNhaHang.pdb
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Owin.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\WebGrease.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Facebook.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.Razor.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.pdb
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.dll
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+C:\Users\NTP\Desktop\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.csprojResolveAssemblyReference.cache
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll.config
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\QLNhaHang.pdb
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Facebook.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Web.Infrastructure.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Owin.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Razor.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\WebGrease.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Facebook.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Razor.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.pdb
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.csprojResolveAssemblyReference.cache
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.dll
+E:\NTP\do an lap trinh web\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll.config
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\QLNhaHang.pdb
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Facebook.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Web.Infrastructure.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Owin.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Razor.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\WebGrease.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Facebook.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Razor.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.pdb
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.csprojResolveAssemblyReference.cache
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.dll
+E:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll.config
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\QLNhaHang.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\QLNhaHang.pdb
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Facebook.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Web.Infrastructure.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Owin.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Razor.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\WebGrease.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Facebook.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\PagedList.Mvc.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Helpers.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Mvc.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Optimization.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.Razor.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Deployment.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\System.Web.WebPages.Razor.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Antlr3.Runtime.pdb
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Newtonsoft.Json.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\EntityFramework.SqlServer.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Core.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Facebook.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Cookies.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.OAuth.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Google.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.Twitter.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.dll
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.pdb
+F:\NTP\do an chuyen nganh\nop bai bao cao do an\nop bai bao cao do an\QLNhaHang\QLNhaHang\obj\Debug\QLNhaHang.csprojResolveAssemblyReference.cache

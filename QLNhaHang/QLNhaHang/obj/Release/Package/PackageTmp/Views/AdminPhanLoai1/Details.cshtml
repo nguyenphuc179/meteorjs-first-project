@@ -1,0 +1,35 @@
+﻿@model QLNhaHang.Models.PhanLoai
+
+@{
+    ViewBag.Title = "Chi Tiết";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CHi Tiết Phân Loại</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenPhanLoai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenPhanLoai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BiDanh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BiDanh)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.PhanLoaiID }) |
+    @Html.ActionLink("Quay Trở Lại", "Index")
+</p>

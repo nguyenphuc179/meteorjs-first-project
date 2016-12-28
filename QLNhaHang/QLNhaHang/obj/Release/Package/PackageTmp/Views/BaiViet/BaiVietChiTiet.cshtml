@@ -1,0 +1,52 @@
+﻿@model QLNhaHang.Models.BaiViet
+@{
+    ViewBag.Title = "BaiVietChiTiet";
+    Layout = "~/Views/Shared/_NhaHangLayout.cshtml";
+}
+
+
+
+<div class="main-container col2-right-layout">
+    <div class="main container">
+        <div class="row">
+            <div class="col-main col-sm-9">
+                <div class="page-title">
+                    <h2>Blog</h2>
+                </div>
+                <div class="blog-wrapper" id="main">
+                    <div class="site-content" id="primary">
+                        <div role="main" id="content">
+                            <article class="blog_entry clearfix">
+                                <header class="blog_entry-header clearfix">
+                                    <div class="blog_entry-header-inner">
+                                        <h2 class="blog_entry-title">@Model.TuaBaiViet</h2>
+                                    </div>
+                                    <!--blog_entry-header-inner-->
+                                </header>
+                                <!--blog_entry-header clearfix-->
+                                <div class="entry-content">
+                                    <div class="entry-content">
+                                        
+
+                                        <p>@Model.NoiDung</p>
+
+                                        <p><img src="~/Photos/BaiViet/@Model.HinhDaiDien" style="height:800px; width:800px" /></p>
+
+                                        
+                                    </div>
+                                </div>
+                                <footer class="entry-meta"><time class="entry-date">@Model.NgayCapNhat</time></footer>
+                            </article>
+                            <div class="comment-content">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+

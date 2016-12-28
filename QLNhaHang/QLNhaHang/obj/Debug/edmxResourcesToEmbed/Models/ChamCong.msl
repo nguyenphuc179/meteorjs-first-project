@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ChamCongModelStoreContainer" CdmEntityContainer="ChamCongEntities">
+    <EntitySetMapping Name="TA_TimeLog">
+      <EntityTypeMapping TypeName="ChamCongModel.TA_TimeLog">
+        <MappingFragment StoreEntitySet="TA_TimeLog">
+          <ScalarProperty Name="EmployeeATID" ColumnName="EmployeeATID" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="MachineIndex" ColumnName="MachineIndex" />
+          <ScalarProperty Name="InOutMode" ColumnName="InOutMode" />
+          <ScalarProperty Name="SpecifiedMode" ColumnName="SpecifiedMode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

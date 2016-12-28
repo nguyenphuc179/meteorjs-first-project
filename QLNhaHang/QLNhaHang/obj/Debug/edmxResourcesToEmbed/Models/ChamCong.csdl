@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ChamCongModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TA_TimeLog">
+    <Key>
+      <PropertyRef Name="EmployeeATID" />
+      <PropertyRef Name="Time" />
+    </Key>
+    <Property Name="EmployeeATID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="MachineIndex" Type="Int16" />
+    <Property Name="InOutMode" Type="Int16" />
+    <Property Name="SpecifiedMode" Type="Int16" />
+  </EntityType>
+  <EntityContainer Name="ChamCongEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TA_TimeLog" EntityType="Self.TA_TimeLog" />
+  </EntityContainer>
+</Schema>

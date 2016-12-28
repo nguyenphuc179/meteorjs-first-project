@@ -1,0 +1,70 @@
+﻿
+@model  QLNhaHang.ViewModels.GioHangModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="header-section">Giỏ hàng của bạn</h2>
+
+@if (Model != null)
+{
+    
+   int stt = 0;
+    <table class="table table-bordered">
+        <thead>
+            <tr class="bg-info">
+                <td>Stt</td>
+                <td>Tên món ăn</td>
+                <td>Số lượng</td>
+                <td>Đơn giá</td>
+                <td>Thành tiền</td>
+                <td></td>
+           
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model.Items)
+            {
+                stt++;
+                <tr>
+                    <td>@stt</td>
+                    <td>@item.ThucDon.TenThucDon</td>
+                    <td>
+                        @using (Html.BeginForm("HieuChinh", "GioHang"))
+                        {
+                            @Html.TextBox("soLuong", item.SoLuong)
+                            @Html.Hidden("thucDonID", item.ThucDon.ThucDonID)
+                            <input type="image" src="~/Images/save.png"  title="Cập nhập số lượng" />}
+                    </td>
+                    <td>@(item.ThucDon.DonGia.ToString("#,##0"))VND</td>
+                    <td> @((item.ThucDon.DonGia * item.SoLuong).ToString("#,##0") )VND</td>
+                    <td>
+                        @using (Html.BeginForm("Xoa", "GioHang"))
+                        {
+                            @Html.Hidden("thucDonID", item.ThucDon.ThucDonID)
+                                <input type="image" src="~/Images/Delete2.png"  title="Xóa thông tin" />
+
+                        }
+                      
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    <div class="col-md-11">
+        Tổng trị giá: @(Model.TongTriGia().ToString("#,##0"))VND
+        <a href="@Url.Action("DatHang","GioHang")">
+            <img src="~/Images/Checkout.png" style="height:50px;width:50px;vertical-align:bottom;" title="Đặt Mua" />
+
+        </a>
+        
+    </div>
+    <div class="col-md-1">
+        <a href="@Url.Action("Index","Home")" style="text-align:right">
+            <input type="image" src="~/Images/Actions-blue-arrow-undo-icon.png" width="50px" title="Quay Trở Lại" />
+        </a>
+    </div>
+}

@@ -1,0 +1,74 @@
+﻿@model QLNhaHang.Models.KhachHang
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_NhaHangLayout.cshtml";
+}
+
+<h1>
+    <a href="/Home" style="color:blue ; margin-left: 100px">
+        <b> Cùng trao gửi yêu thương với Đêm Yêu Thương các bạn nhé!</b>
+    </a>
+</h1>
+<div class="main">
+    <div class="wrap clearfix">
+        <div class="row">
+            @using (Html.BeginForm("Index", "DatMua", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                <hr />
+
+                @Html.ValidationSummary(true)
+                <div class="col-md-8 col-sm-8" style="left:200px; right:200px">
+                    <div class="form-group">
+                        <h2>
+                            <label class="control-label">Thông tin mua hàng</label>
+                        </h2>
+                    </div>
+                    <div class="form-group">
+                        <label><a href="/TaiKhoan/Register" style="color:blue">Đăng ký tài khoản mua hàng</a></label>
+                        |
+                        <label><a href="/TaiKhoan/Login" style="color:blue">Đăng nhập </a></label>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.HoTen, new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(model => model.HoTen, htmlAttributes: new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.HoTen)
+                        </div>
+                    </div>
+                    <br /><br /><br />
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.DiaChi, new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(model => model.DiaChi, htmlAttributes: new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.DiaChi)
+                        </div>
+                    </div>
+                    <br /><br />
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.DienThoai, new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(model => model.DienThoai, htmlAttributes: new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.DienThoai)
+                        </div>
+                    </div>
+                    <br /><br />
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(model => model.Email, htmlAttributes: new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Email)
+                        </div>
+                    </div>
+                    <br /><br />
+                    <div class="form-group">
+                        <div class="col-md-12 mt10" style="left: 756px">
+                            <input type="submit" value="Thanh Toán" class="btn btn-primary" style="color:white" />
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

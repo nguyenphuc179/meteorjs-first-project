@@ -1,0 +1,89 @@
+﻿@model QLNhaHang.Models.BaiViet
+
+@{
+    ViewBag.Title = "Tạo Mới";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Tạo mới</h2>
+
+<div class="col-md-12">
+    @using (Html.BeginForm("Create", "AdminBaiViet1", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Tạo mới bài viết</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.TuaBaiViet, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.TuaBaiViet, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.TuaBaiViet, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+           
+            @*<div class="form-group">
+                    @Html.LabelFor(model => model.NoiDung, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <textarea name="NoiDung" id="NoiDung">Mô tả thông tin sách</textarea>
+                    </div>
+                </div>*@
+
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.NoiDung, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">                  
+                    <textarea id="NoiDung" rows="5" cols="200" name="NoiDung" class="form-control"></textarea>                  
+                    @Html.ValidationMessageFor(model => model.NoiDung, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.NgayCapNhat, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.NgayCapNhat, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.NgayCapNhat, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.NguoiDungID, "NguoiDungID", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("NguoiDungID", null, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.NguoiDungID, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.HinhDaiDien, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <input type="file" id="file" name="file" />
+                    @ViewBag.Thongbao
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Tạo Mới" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+
+    }
+
+    <div>
+        @Html.ActionLink("Trở lại", "Index")
+    </div>
+</div>
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+
+        }
+        @*@section Scripts2 {
+            <script src="~/tinymce/js/tinymce/tinymce.min.js"></script>
+            <script>tinymce.init({ selector: 'textarea' });</script>
+            }*@

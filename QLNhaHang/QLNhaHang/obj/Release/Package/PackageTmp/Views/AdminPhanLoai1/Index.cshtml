@@ -1,0 +1,40 @@
+﻿@model IEnumerable<QLNhaHang.Models.PhanLoai>
+
+@{
+    ViewBag.Title = "Phân loại";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Phân Loại</h2>
+
+<p>
+    @Html.ActionLink("Tạo Mới", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenPhanLoai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BiDanh)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenPhanLoai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BiDanh)
+        </td>
+        <td>
+            @Html.ActionLink("Sửa", "Edit", new { id=item.PhanLoaiID }) |
+            @Html.ActionLink("Chi Tiết", "Details", new { id=item.PhanLoaiID }) |
+            @Html.ActionLink("Xóa", "Delete", new { id=item.PhanLoaiID })
+        </td>
+    </tr>
+}
+
+</table>

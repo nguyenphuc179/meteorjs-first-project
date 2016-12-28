@@ -1,0 +1,24 @@
+﻿@using QLNhaHang.WS_TinTuc
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_NhaHangLayout.cshtml";
+    TinTucSoapClient client = new TinTucSoapClient();
+    BaiViet[] dsTinTuc = client.getBaiVietSoHoa();
+    var ds10sp = dsTinTuc.Take(20);
+}
+
+<h1>Tin tức Mới </h1>
+<div class="sf-menu" style="overflow-y:auto; max-height:400px">
+    @foreach (var baiviet in ds10sp)
+    {
+        <a href="@baiviet.LienKet"><h4 style="color:#0094ff">@baiviet.TuaBaiViet</h4></a>
+        <div class="baivietContent">
+       
+              @Html.Raw(baiviet.NoiDung)  
+           
+            <div class="right">@baiviet.NgayCapNhat</div>
+            
+        </div>
+    }
+</div>
+

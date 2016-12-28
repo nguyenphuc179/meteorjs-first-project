@@ -1,0 +1,23 @@
+﻿@model List<QLNhaHang.Models.PhanLoai>
+
+@foreach (var itemPL in Model)
+{
+    <li class="level0 parent drop-menu">
+        <a href="#"><span>@itemPL.TenPhanLoai</span> </a>
+        <ul style="display: none;" class="level1">
+            @foreach(var itemNM in itemPL.NhomMons)
+            {
+                <li class="level1 first">
+                    @Html.ActionLink(itemNM.TenNhomMon, "DanhSach", "SanPham", new { id = itemNM.NhomMonID}, null)
+                </li>
+    
+            }
+            
+        </ul>
+    </li>
+
+}
+
+
+
+

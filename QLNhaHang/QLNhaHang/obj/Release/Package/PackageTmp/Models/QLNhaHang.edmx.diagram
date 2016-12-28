@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e6fc975b328144b693d00d3da8a5e6e5" Name="Diagram1">
+        <EntityTypeShape EntityType="QLNhaHang.Models.Admin" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.BaiViet" Width="1.5" PointX="10" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.DatHang" Width="1.5" PointX="5.25" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.DatHangCT" Width="1.5" PointX="7.5" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.HopThu" Width="1.5" PointX="10" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.KhachHang" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.NguoiDung" Width="1.5" PointX="7.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.NhaHang" Width="1.5" PointX="0.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.NhomMon" Width="1.5" PointX="3" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.PhanLoai" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhaHang.Models.ThucDon" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="QLNhaHang.Models.FK_BaiViet_NguoiDung" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhaHang.Models.FK_DatHang_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhaHang.Models.FK_DatHangCT_DatHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhaHang.Models.FK_DatHangCT_ThucDon" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhaHang.Models.FK_HopThu_NguoiDung" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhaHang.Models.FK_NhomMon_PhanLoai" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhaHang.Models.FK_ThucDon_NhomMon" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

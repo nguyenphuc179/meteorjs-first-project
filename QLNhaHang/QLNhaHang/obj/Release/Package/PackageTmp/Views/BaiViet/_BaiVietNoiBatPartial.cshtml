@@ -1,0 +1,46 @@
+﻿@model List<QLNhaHang.Models.BaiViet>
+<section class="main-container col1-layout home-content-container">
+    <div class="container">
+        <div class="std">
+            <div class="best-seller-pro">
+                <div class="slider-items-products">
+                    <div class="new_title center">
+                        <h2>Bài viết nổi bật</h2>
+                    </div>
+                    <div id="best-seller-slider" class="product-flexslider hidden-buttons">
+                        <div class="slider-items slider-width-col4">
+                            <!-- Item -->
+                            @foreach (var item in Model)
+                            {
+                                <div class="item ">
+                                    <div class="product-block">
+                                        <div class="product-image">
+                                            <a href="@Url.Action("BaiVietChiTiet", "BaiViet", new {id = item.BaiVietID })">
+                                                <figure class="product-display">
+
+                                                    <img src="~/Photos/BaiViet/@item.HinhDaiDien" class="product-mainpic" alt="@item.TuaBaiViet">
+                                                    <img class="product-secondpic" alt="@item.TuaBaiViet" src="~/Photos/BaiViet/@item.HinhDaiDien">
+                                                </figure>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="item-info">
+                                        <div class="info-inner">
+                                            <div class="item-title" style="font-size:large">
+                                                @item.TuaBaiViet
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+
+                            <!-- End Item -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

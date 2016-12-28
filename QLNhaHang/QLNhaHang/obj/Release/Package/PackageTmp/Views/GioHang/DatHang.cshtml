@@ -1,0 +1,158 @@
+﻿@model  QLNhaHang.ViewModels.GioHangModel
+@using QLNhaHang.Models
+@{
+    ViewBag.Title = "Dat hang";
+}
+
+
+
+<section class="home-main">
+    <section class="main-container col1-layout">
+
+        <div class="main container">
+            <div class="col-main">
+                @using (Html.BeginForm())
+                {
+
+                    <div context="checkout" define="{checkout: new Bizweb.Checkout(this,{})}" class="container checkout">
+                        <div class="header">
+                            <div class="wrap">
+                                <div class="shop  logo--left ">
+
+                                    <h1 class="shop__name">
+                                        <a href="/">
+                                           Nhà Hàng Nguyễn Tài Phúc
+                                        </a>
+                                    </h1>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="main">
+                            <div class="wrap clearfix">
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-6 customer-info">
+                                        @{
+                                             KhachHang user = Session["Taikhoan"] as KhachHang;
+                                        }
+                                        <div define="{billing_address: {},billing_expand:true}" class="form-group m0">
+                                            <h2>
+                                                <label class="control-label">Thông tin mua hàng</label>
+                                            </h2>
+                                        </div>
+
+                                        <hr class="divider">
+
+                                        <div class="billing">
+                                            <div class="form-group">
+
+                                            </div>
+                                            <div bind-show="billing_expand">
+                                                <div class="form-group">
+                                                    <article>Họ và tên:</article>
+                                                    <b>@user.HoTen</b>
+                                                </div>
+
+                                                <div class="form-group">
+                                                    <article>Địa chỉ:</article>
+                                                    <b>@user.DiaChi</b>
+                                                </div>
+
+
+                                                <div class="form-group">
+                                                    <article>Điện thoại:</article>
+                                                    <b>@user.DienThoai</b>
+                                                </div>
+
+                                                <div class="form-group">
+                                                    <article>Email:</article>
+                                                    <b>@user.Email</b>
+                                             
+                                                </div>
+
+                                                <div class="form-group">
+                                                    <article>Ghi chú:</article>
+                                                    <textarea name="Ghichu" value="" class="form-control" placeholder="Mời bạn nhập địa chỉ nơi nhận hàng và số điện thoại người nhận vào đây...!!!!!!!"></textarea>
+                                                </div>
+                                                <div class="form-group">
+                                                    <article>Ngày giao hàng:</article>
+                                                    <input type="date" name="Ngaygiao" class="form-control" />
+                                                   
+                                                </div>
+
+                                                <hr class="divider" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-6">
+
+                                        <div class="order-summary order-summary--custom-background-color ">
+
+                                            <div class="order-summary-header">
+                                                <h2>
+                                                    <label class="control-label">Đơn hàng</label>
+                                                </h2>
+                                            </div>
+
+                                            <div class="summary-body summary-section summary-product">
+
+                                                <div class="summary-product-list">
+
+                                                    <ul class="product-list">
+                                                        @foreach (var item in Model.Items)
+                                                        {
+                                                            <li class="product product-has-image clearfix">
+
+                                                                <img src='~/Photos/ThucDon/@item.ThucDon.Hinh' alt='@item.ThucDon.TenThucDon' style="width:50px; height:50px" class='pull-left product-image' />
+
+                                                                <div class="product-info pull-left">
+                                                                    <span class="product-info-name">
+                                                                        <strong>@item.ThucDon.TenThucDon</strong> <b>x @item.SoLuong</b>
+                                                                    </span>
+                                                                </div>
+                                                                <strong class="product-price pull-right">
+                                                                    @item.ThucDon.DonGia&#8363;
+                                                                </strong>
+                                                            </li>
+                                                        }
+
+                                                    </ul>
+
+
+                                                </div>
+
+                                            </div>
+
+                                            <div class="total-line total-line-total clearfix">
+                                                <span class="total-line-name pull-left">
+                                                    <b>Tổng cộng</b>
+                                                </span>
+                                                <span class="total-line-price pull-right">
+                                                    @*<b>@Model.TongTriGia()&#8363;</b>*@
+                                                </span>
+                                            </div>
+
+                                        </div>
+                                        <div class="form-group clearfix">
+                                            <input class="btn btn-success col-md-12 mt10 btn-checkout" type="submit" value="ĐẶT HÀNG" />
+                                            
+                                        </div>
+                                       
+                                    </div>
+
+                                 
+                                    <div class="form-group has-error">
+                                        <div class="help-block ">
+                                            <ul class="list-unstyled"></ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+</section>
+

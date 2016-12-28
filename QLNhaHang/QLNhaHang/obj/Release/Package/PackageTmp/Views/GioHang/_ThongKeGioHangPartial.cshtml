@@ -1,0 +1,101 @@
+﻿@model System.Int32
+<a href="@Url.Action("Index","GioHang")" >
+    <i class="icon-cart"></i>
+    <div class="cart-box"><span id="cart-total">@Model</span></div>
+</a>
+
+<script type="text/javascript">
+    Bizweb.updateCartFromForm = function (cart, cart_summary_id, cart_count_id) {
+
+        if ((typeof cart_summary_id) === 'string') {
+            var cart_summary = jQuery(cart_summary_id);
+            if (cart_summary.length) {
+                // Start from scratch.
+                cart_summary.empty();
+                // Pull it all out.
+                jQuery.each(cart, function (key, value) {
+                    if (key === 'items') {
+
+                        var table = jQuery(cart_summary_id);
+                        if (value.length) {
+
+                            jQuery('<div class="animated_item"><p>Sản phẩm đã cho vào giỏ hàng</p></div>').appendTo(table);
+                            jQuery.each(value, function (i, item) {
+                                jQuery('<li class="item even"><a class="product-image" href="' + item.url + '"><img src="' + Bizweb.resizeImage(item.image, 'small') + '" width="80"></a><div class="detail-item"><div class="product-details"> <a href="javascript:void(0);" onclick="Bizweb.removeItem(' + item.variant_id + ')" title="Remove This Item" class="btn-remove1">Remove This Item</a><p class="product-name"> <a href="' + item.url + '" title="' + item.name + '">' + item.name + '</a> </p></div><div class="product-details-bottom"> <span class="price">' + Bizweb.formatMoney(item.price, "{{amount_no_decimals_with_comma_separator}}&#8363;") + '</span> <span class="title-desc">Qty:</span> <strong>' + item.quantity + '</strong> </div></div></li>').appendTo(table);
+                            });
+                            jQuery('<div class="top-subtotal">Tổng tiền: <span class="price total_price">0&#8363;</span></div><div class="animated_item actions"><a href="/cart\" class=" view-cart">Giỏ hàng</a><a href="/checkout\" class=" btn-checkout">Thanh toán</a></div>').appendTo(table);
+                        }
+                        else {
+                            jQuery('<div class="animated_item"><p>Không có sản phẩm nào trong giỏ hàng.</p></div>').appendTo(table);
+                        }
+                    }
+                });
+            }
+        }
+        updateCartDesc(cart);
+    }
+
+
+    function updateCartDesc(data) {
+        var $cartLinkText = $('#open_shopping_cart'),
+            $cartCount = $('#cart-total'),
+            $cartPrice = Bizweb.formatMoney(data.total_price, "{{amount_no_decimals_with_comma_separator}}&#8363;");
+        switch (data.item_count) {
+            case 0:
+                $cartLinkText.attr('data-amount', '0');
+                $cartCount.text('0');
+                break;
+            case 1:
+                $cartLinkText.attr('data-amount', '1');
+                $cartCount.text('1');
+                break;
+            default:
+                $cartLinkText.attr('data-amount', data.item_count);
+                $cartCount.text(data.item_count);
+                break;
+        }
+        $('.open_button .total_price').html($cartPrice);
+    }
+    Bizweb.onCartUpdate = function (cart) {
+        Bizweb.updateCartFromForm(cart, '.shopping_cart', 'shopping-cart');
+    };
+    $(window).load(function () {
+        // Let's get the cart and show what's in it in the cart box.
+        Bizweb.getCart(function (cart) {
+            Bizweb.updateCartFromForm(cart, '.shopping_cart');
+        });
+    });
+</script>
+<script language="JavaScript">
+    var message = "bizweb.vn";
+    function clickIE4() {
+        if (event.button == 2) { return false; }
+    }
+    function clickNS4(e) {
+        if (document.layers || document.getElementById && !document.all) {
+            if (e.which == 2 || e.which == 3) { return false; }
+        }
+    }
+    if (document.layers) { document.captureEvents(Event.MOUSEDOWN); document.onmousedown = clickNS4; }
+    else
+        if (document.all && !document.getElementById) { document.onmousedown = clickIE4; }
+    document.oncontextmenu = new Function("return false;");
+</script>
+<script type="text/javaScript">
+    $.ctrl = function (key, callback, args) {
+        var isCtrl = false;
+        $(document).keydown(function (e) {
+            if (!args) args = []; // IE barks when args is null
+
+            if (e.ctrlKey) isCtrl = true;
+            if (e.keyCode == key.charCodeAt(0) && isCtrl) {
+                callback.apply(this, args);
+                return false;
+            }
+        }).keyup(function (e) {
+            if (e.ctrlKey) isCtrl = false;
+        });
+    };
+    $.ctrl('C', function () { });
+    $.ctrl('U', function () { });
+</script>
